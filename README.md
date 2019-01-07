@@ -1,0 +1,2 @@
+# attendancesystem
+he project is about developing a system which involves the machine learing and cloud computing capabilities in trditional attendance management system. The project is writen in python language and hosted on Microsoft azure platform. I have implemented Cognitive API for face detection and comperision. From a single image it identifies all the students who are present in the single image. The accuracy for the face detection of all students in single photo is about 90%.
